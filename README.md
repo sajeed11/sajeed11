@@ -39,6 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajeed11&" alt="sajeed11" /></p>
 
- <h3 align = "left">Sanke eating my contribution graph</h3>
+##Sanke eating my contribution graph
 ![snake gif](https://github.com/sajeed11/sajeed11/blob/output/github-contribution-grid-snake.gif)
 
