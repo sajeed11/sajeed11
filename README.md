@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Next.js Projects**
 
-- 🌱 I’m currently learning **Laravel, Next.js.**
+- 🌱 I’m currently learning **Laravel, Next.js, Vue.js**
 
-- 👯 I’m looking to collaborate on **React.js Projects**
+- 👯 I’m looking to collaborate on **React.js Projects, Laravel Projects**
 
-- 🤝 I’m looking for help with **Backend: Laravel**
+- 🤝 I’m looking for help with **Backend: Laravel, Frontend: Vue.js**
 
-- 💬 Ask me about **React.js, Redux, Android Studio.**
+- 💬 Ask me about **React.js, Android Studio.**
 
 - 📫 How to reach me **sajednemli39@gmail.com**
 
