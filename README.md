@@ -1,4 +1,4 @@
-[![MasterHead](https://i1.wp.com/www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif?strip=all)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/R.f684dd845e689dd463b4e719ce776073?rik=ZJrhBngyIYvs4Q&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sadjed</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
