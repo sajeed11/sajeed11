@@ -4,10 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sajeed11&label=Profile%20views&color=0e75b6&style=flat" alt="sajeed11">
-</p>
-
-<p align="left"> 
   <a href="https://twitter.com/snemli39" target="blank">
     <img src="https://img.shields.io/twitter/follow/snemli39?logo=twitter&style=for-the-badge" alt="snemli39">
   </a> 
@@ -15,11 +11,11 @@
 
 - 🔭 I’m currently working on **Next.js Projects**
 
-- 🌱 I’m currently learning **Laravel, Next.js**
+- 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👬 I’m looking to collaborate on **Next.js, Laravel Projects**
+- 👬 I’m looking to collaborate on **Next.js, Nodejs Projects**
 
-- 🤝 I’m looking for help with **Backend: Laravel, Frontend: Next.js, Data Structure on general**
+- 🤝 I’m looking for help with **Backend: Nodejs, Frontend: Next.js**
 
 - 📫 How to reach me **sajednemli39@gmail.com**
 
@@ -33,9 +29,8 @@
 <a href="https://fb.com/sajeed.namli" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajeed.namli" height="30"     width="40">
 </a>
-<a href="https://instagram.com/sajedn_11" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajedn_11" height="30"       
-width="40">
+<a href="https://instagram.com/sajed_o7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajedn_11" height="30" width="40">
 </a>
 <a href="https://discord.gg/ssnn77#1317" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ssnn77#1317" height="30" width="40">
