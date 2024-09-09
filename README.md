@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://th.bing.com/th/id/R.9376534e60328bcc2fb1dc125129d7b4?rik=HhkELYm7i9Ehzg&pid=ImgRaw&r=0" align="center" style="width: 70%" />
+  <a href="/gif/dead-cells-rise-of-the-giant-dlc-major-update-thing-an-animated-trailer-ZVvmVt" title="Dead Cells: Rise of the Giant DLC, Major update... Thing - An animated trailer"><img src="https://i.makeagif.com/media/2-08-2021/ZVvmVt.gif" alt="Dead Cells: Rise of the Giant DLC, Major update... Thing - An animated trailer"></a>
 </div>
 
 <br/>
