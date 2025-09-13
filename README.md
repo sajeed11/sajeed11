@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Sajed!</h2>
-<h3 align="center">Always learning and up-to-date with the latest technologies 🚀</h3>
+<h3 align="center">Front-end Developer 🚀</h3>
 
 <br/>
 
-- 🔭 I’m currently working on **Next.js Projects**  
+- 🔭 I’m currently working on **Vue.js Projects**  
   
-- 🌱  I’m currently learning **Design Pattern and OOP, Design Systems, Data Structure, Linux, Game dev(hobby)**  
+- 🌱  I’m currently learning **Design Pattern and OOP, Design Systems, Data Structure, Linux**  
 
 - 📫 How to reach me **sajednemli39@gmail.com**
   
@@ -13,128 +13,25 @@
 
 <br/>  
  
-<h2 align="left">I Code With These Languages, Forgive HTML and CSS for being there :')</h2>
+<h2 align="left">💻 I Code With These Languages (HTML & CSS Included 😅)</h2>
 
-###
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,java)](https://skillicons.dev)
 
-<div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="40"
-    width="40"
-    alt="html5 logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    width="40"
-    alt="css3 logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    width="40"
-    alt="javascript logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="40"
-    width="40"
-    alt="typescript logo"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    height="40"
-    width="40"
-    alt="java logo"
-    />
-          
-###
+---
 
-<h2 align="left">I Use These Technologies</h2>
+<h2 align="left">⚛️ Frameworks & Libraries</h2>
 
-###
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,shadcn,vue,pinia,express,nodejs)](https://skillicons.dev)
 
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    height="40"
-    width="40"
-    alt="react logo"
-  /><img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-    height="40"
-    width="40"
-    alt="nextjs logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-    height="40"
-    width="40"
-    alt="vue.js logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    height="40"
-    width="40"
-    alt="tailwindcss logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    height="40"
-    width="40"
-    alt="nodejs logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    height="40"
-    width="40"
-    alt="express logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-    height="40"
-    width="40"
-    alt="mongodb logo"
-  /> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
-    height="40"
-    width="40"
-    alt="MySql Logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
-    height="40"
-    width="40"
-    alt="firebase logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    height="40"
-    width="40"
-    alt="git logo"
-  /> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"
-    height="40"
-    width="40"
-    alt="fedora logo"
-  />
-</div>
+<h2 align="left">🗄️ Databases</h2>
 
-###
-<br/>  
+[![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
-<h2 align="left"> Connect with me </h2>
-<div align="left">
-<a href="https://github.com/sajeed11" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/SNemli39" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/sajed_o7" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sadjed-nemli" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h2 align="left">🛠️ Tools / OS / VCS</h2>
 
-<br/>  
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,fedora,kde,catppuccin,kitty,vscode,firefox,obsidian)](https://skillicons.dev)
 
-<h2 align="left"> Github Stats </h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajeed11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">🧮 Github Stats </h2>
+<picture decoding="async" loading="lazy">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sajeed11&screen_effect=true&theme=road_trip&hide=avatar,contributions&dithering=true&include_all_commits=true">
+</picture>
