@@ -29,7 +29,7 @@
 
 <h2 align="left">🛠️ Tools / OS / VCS</h2>
 
-[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,fedora,kde,catppuccin,kitty,vscode,firefox,obsidian)](https://skillicons.dev)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,fedora,gnome,catppuccin,kitty,vscode,firefox,obsidian)](https://skillicons.dev)
 
 <h2 align="left">🧮 Github Stats </h2>
 <picture decoding="async" loading="lazy">
